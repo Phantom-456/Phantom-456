@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phantom-456&label=Profile%20views&color=0e75b6&style=flat" alt="phantom-456" /> </p>
+<p align="left"><a href="https://github.com/Phantom-456"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/github-logo.png" width="40" /></a> <img src="https://komarev.com/ghpvc/?username=phantom-456&label=Profile%20views&color=0e75b6&style=flat" alt="phantom-456" /> </p>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Phantom  <a href="https://dev.to/phantom456">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashiq's DEV Profile" height="30" width="30">
@@ -6,7 +6,6 @@
 <h3 align="center">AI enthusiast || AppDeveloper || Robotics enthusiast || Live to Experience || TechLove || Student Forever</h3>
 <p align = "center">
 <a href="https://www.linkedin.com/in/ashiqfmohammed/"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/Phantom-456"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:phantom.phony@gmail.com"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://www.facebook.com/ashiq.7524"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://www.instagram.com/Phantom__Pharaoh"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/instagram.png" width="40" /></a>
