@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/ashiqfmohammed/"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Phantom-456"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:phantom.phony@gmail.com"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/facebook.png" width="40" /></a>
-<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.facebook.com/ashiq.7524"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/facebook.png" width="40" /></a>
+<a href="https://www.instagram.com/Phantom__Pharaoh"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/instagram.png" width="40" /></a>
 </p>
 - 🌱 I’m currently learning **Angular , Ros , TensorForce**
 
