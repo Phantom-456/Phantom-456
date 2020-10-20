@@ -1,6 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantom-456&label=Profile%20views&color=0e75b6&style=flat" alt="phantom-456" /> </p>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Phantom</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Phantom  <a href="https://dev.to/phantom456">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashiq's DEV Profile" height="30" width="30">
+</a></h1>
 <h3 align="center">AI enthusiast || AppDeveloper || Robotics enthusiast || Live to Experience || TechLove || Student Forever</h3>
 <p align = "center">
 <a href="https://www.linkedin.com/in/ashiqfmohammed/"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/linkedin.png" width="40" /></a>
@@ -20,9 +22,7 @@
 - 📄 Know about my experiences @ [https://phantom-456.github.io/Portfolio/Resume/Resume.html](https://phantom-456.github.io/Portfolio/Resume/Resume.html)
 
 
-<p align="left">
-<a href="https://dev.to/phantom456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="phantom456" height="30" width="40" /></a>
-</p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantom-456&show_icons=true&locale=en" alt="phantom-456" /></p>
