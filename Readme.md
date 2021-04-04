@@ -11,9 +11,9 @@
 <a href="https://www.facebook.com/ashiq.7524"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://www.instagram.com/Phantom__Pharaoh"><img src="https://github.com/Phantom-456/Phantom-456/blob/master/logos/instagram.png" width="40" /></a>
 </p>
-- 🌱 I’m currently learning **Angular , Ros , TensorFlow**
+- 🌱 I’m currently learning **Angular, TensorFlow**
 
-- 💬 Ask me about **ML, Python, Ubuntu, MEN Stack, Flutter**
+- 💬 Ask me about **ML, Python, Ubuntu, MEN Stack, Flutter, ROS**
 
 - 👨‍💻 Know More About Me @ [https://phantom-456.github.io/Portfolio/](https://phantom-456.github.io/Portfolio/)
 
